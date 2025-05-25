@@ -1,0 +1,28 @@
+# Python 相關
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# IDE 相關
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 專案特定檔案
+*.pt
+runs/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+
+# 系統檔案
+.DS_Store
+Thumbs.db 
