@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 1. 啟動主程式：
 ```bash
-python app.py
+python main.py
 ```
 
 2. 使用不同的模型：
