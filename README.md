@@ -68,7 +68,7 @@ python yolo.py --model yolov8x.pt
 
 ## 專案結構
 
-- `app.py`: 主應用程式
+- `main.py`: 主應用程式
 - `yolo.py`: YOLO 模型處理核心
 - `emotion_detection.py`: 情緒分析模組
 - `cursor.py`: 滑鼠控制模組
